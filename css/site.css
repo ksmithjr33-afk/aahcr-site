@@ -2,13 +2,13 @@
    Tokens: asphalt base, graphite surfaces, paper text, gold accent, ash muted, signal red (hail season only)
    Display: Barlow Condensed 800. Body: Barlow 400/500.
    Layout: 1240px max, left aligned, one dark theme by choice. */
-@font-face{font-family:"Cormorant";font-weight:300 700;font-style:normal;font-display:swap;src:url(../fonts/CG.woff2) format("woff2")}
-@font-face{font-family:"Cormorant";font-weight:300 700;font-style:italic;font-display:swap;src:url(../fonts/CG-Italic.woff2) format("woff2")}
-@font-face{font-family:"Barlow Condensed";font-weight:800;font-display:swap;src:url(../fonts/BarlowCondensed-Black.woff2) format("woff2")}
-@font-face{font-family:"Barlow Condensed";font-weight:700;font-display:swap;src:url(../fonts/BarlowCondensed-Bold.woff2) format("woff2")}
-@font-face{font-family:"Barlow Condensed";font-weight:600;font-display:swap;src:url(../fonts/BarlowCondensed-SemiBold.woff2) format("woff2")}
-@font-face{font-family:"Barlow";font-weight:500;font-display:swap;src:url(../fonts/Barlow-Medium.woff2) format("woff2")}
-@font-face{font-family:"Barlow";font-weight:400;font-display:swap;src:url(../fonts/Barlow-Regular.woff2) format("woff2")}
+@font-face{font-family:"Cormorant";font-weight:300 700;font-style:normal;font-display:swap;src:url(/fonts/CG.woff2) format("woff2")}
+@font-face{font-family:"Cormorant";font-weight:300 700;font-style:italic;font-display:swap;src:url(/fonts/CG-Italic.woff2) format("woff2")}
+@font-face{font-family:"Barlow Condensed";font-weight:800;font-display:swap;src:url(/fonts/BarlowCondensed-Black.woff2) format("woff2")}
+@font-face{font-family:"Barlow Condensed";font-weight:700;font-display:swap;src:url(/fonts/BarlowCondensed-Bold.woff2) format("woff2")}
+@font-face{font-family:"Barlow Condensed";font-weight:600;font-display:swap;src:url(/fonts/BarlowCondensed-SemiBold.woff2) format("woff2")}
+@font-face{font-family:"Barlow";font-weight:500;font-display:swap;src:url(/fonts/Barlow-Medium.woff2) format("woff2")}
+@font-face{font-family:"Barlow";font-weight:400;font-display:swap;src:url(/fonts/Barlow-Regular.woff2) format("woff2")}
 :root{
   --asphalt:#0D0D0F; --graphite:#16161A; --slate:#1F1F25; --line:#2A2A31;
   --paper:#F4EFE6; --ash:#A09B93; --gold:#D9A441; --gold-deep:#B8862E; --signal:#C8372D;
